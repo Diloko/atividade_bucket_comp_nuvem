@@ -1,5 +1,4 @@
 node_modules/
-database.sqlite
 sa-grupo-f-key.json
 .vscode/
 *.log
